@@ -95,7 +95,8 @@ analytics:
 author:
   name             : "Hyekyoung Hwang"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Media System Lab. in SKKU \n About Explainable AI, Computer vison, Object detection, image processing"
+  bio              : "Media System Lab. in SKKU
+                      About Explainable AI, Computer vison, Object detection, image processing"
   location         : "SungKyunKwan University, Suwon, South Korea"
   email            :
   links:
